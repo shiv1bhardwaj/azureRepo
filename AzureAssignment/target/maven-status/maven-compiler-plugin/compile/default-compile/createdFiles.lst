@@ -1,0 +1,8 @@
+com\training\nagarro\AzureDemoApplication.class
+com\training\nagarro\exceptions\GlobalExceptionHandler.class
+com\training\nagarro\services\CustomerService.class
+com\training\nagarro\repositories\CustomerRepository.class
+com\training\nagarro\services\implementation\CustomerServiceImplementation.class
+com\training\nagarro\exceptions\ResourceNotFoundException.class
+com\training\nagarro\controllers\Controller.class
+com\training\nagarro\entities\Customer.class
